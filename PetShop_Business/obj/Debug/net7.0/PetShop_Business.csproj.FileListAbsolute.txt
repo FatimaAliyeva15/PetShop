@@ -1,0 +1,17 @@
+C:\Users\II novbe\Desktop\Praktika-Codlar\praktika 05.04.24\PetShop_Business\bin\Debug\net7.0\PetShop_Business.deps.json
+C:\Users\II novbe\Desktop\Praktika-Codlar\praktika 05.04.24\PetShop_Business\bin\Debug\net7.0\PetShop_Business.dll
+C:\Users\II novbe\Desktop\Praktika-Codlar\praktika 05.04.24\PetShop_Business\bin\Debug\net7.0\PetShop_Business.pdb
+C:\Users\II novbe\Desktop\Praktika-Codlar\praktika 05.04.24\PetShop_Business\bin\Debug\net7.0\PetShop_Core.dll
+C:\Users\II novbe\Desktop\Praktika-Codlar\praktika 05.04.24\PetShop_Business\bin\Debug\net7.0\PetShop_Data.dll
+C:\Users\II novbe\Desktop\Praktika-Codlar\praktika 05.04.24\PetShop_Business\bin\Debug\net7.0\PetShop_Data.pdb
+C:\Users\II novbe\Desktop\Praktika-Codlar\praktika 05.04.24\PetShop_Business\bin\Debug\net7.0\PetShop_Core.pdb
+C:\Users\II novbe\Desktop\Praktika-Codlar\praktika 05.04.24\PetShop_Business\obj\Debug\net7.0\PetShop_Business.csproj.AssemblyReference.cache
+C:\Users\II novbe\Desktop\Praktika-Codlar\praktika 05.04.24\PetShop_Business\obj\Debug\net7.0\PetShop_Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II novbe\Desktop\Praktika-Codlar\praktika 05.04.24\PetShop_Business\obj\Debug\net7.0\PetShop_Business.AssemblyInfoInputs.cache
+C:\Users\II novbe\Desktop\Praktika-Codlar\praktika 05.04.24\PetShop_Business\obj\Debug\net7.0\PetShop_Business.AssemblyInfo.cs
+C:\Users\II novbe\Desktop\Praktika-Codlar\praktika 05.04.24\PetShop_Business\obj\Debug\net7.0\PetShop_Business.csproj.CoreCompileInputs.cache
+C:\Users\II novbe\Desktop\Praktika-Codlar\praktika 05.04.24\PetShop_Business\obj\Debug\net7.0\PetShop_Business.csproj.CopyComplete
+C:\Users\II novbe\Desktop\Praktika-Codlar\praktika 05.04.24\PetShop_Business\obj\Debug\net7.0\PetShop_Business.dll
+C:\Users\II novbe\Desktop\Praktika-Codlar\praktika 05.04.24\PetShop_Business\obj\Debug\net7.0\refint\PetShop_Business.dll
+C:\Users\II novbe\Desktop\Praktika-Codlar\praktika 05.04.24\PetShop_Business\obj\Debug\net7.0\PetShop_Business.pdb
+C:\Users\II novbe\Desktop\Praktika-Codlar\praktika 05.04.24\PetShop_Business\obj\Debug\net7.0\ref\PetShop_Business.dll
